@@ -33,4 +33,7 @@ list1 = [2, 6, 41, 85, 0, 3, 7, 6, 10]
 N = 2
  
 # Calling the function
+
+
+
 Nmaxelements(list1, N)
